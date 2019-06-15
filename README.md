@@ -1,2 +1,0 @@
-# ReakitExample
-Created with CodeSandbox
